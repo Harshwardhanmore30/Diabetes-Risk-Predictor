@@ -85,8 +85,8 @@ http://127.0.0.1:5000/
 
 ## 👤 Author
 
-**Sumit Bavaskar**  
-📧 Contact: [LinkedIn](https://linkedin.com/in/sumitbavaskar)  
+**Harshwardhan More**  
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/harshwardhan-more-18364a308/)  
 📂 Portfolio: Coming Soon
 
 ---
